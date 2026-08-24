@@ -27255,6 +27255,256 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "47",
+			"title": "47",
+			"photos": [
+				{
+					"id": "47-20260824_124721",
+					"file": "photos/47/20260824_124721.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 2.2,
+						"exposureTime": "1/50",
+						"iso": 100,
+						"focalLength": 2,
+						"focalLength35mm": 13,
+						"dateTaken": "2026-08-24T10:47:21.000Z"
+					},
+					"tags": [
+						"deer",
+						"camera",
+						"forest",
+						"leaves",
+						"bark",
+						"trees",
+						"wildlife",
+						"nature",
+						"photography",
+						"digital",
+						"black",
+						"brown",
+						"green",
+						"serene",
+						"day"
+					]
+				},
+				{
+					"id": "47-20260824_131657",
+					"file": "photos/47/20260824_131657.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/722",
+						"iso": 12,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-08-24T11:16:57.000Z"
+					},
+					"tags": [
+						"playground",
+						"fox",
+						"slide",
+						"trees",
+						"children",
+						"summer",
+						"outdoor",
+						"fun",
+						"park",
+						"daytime",
+						"sunshine",
+						"family",
+						"leisure"
+					]
+				},
+				{
+					"id": "47-20260824_131727",
+					"file": "photos/47/20260824_131727.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/483",
+						"iso": 12,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-08-24T11:17:27.000Z"
+					},
+					"tags": [
+						"playground",
+						"slide",
+						"climbing",
+						"trees",
+						"children",
+						"summer",
+						"park",
+						"outdoor",
+						"fun",
+						"daytime",
+						"nature",
+						"activity",
+						"leisure",
+						"family"
+					]
+				},
+				{
+					"id": "47-meow5363",
+					"file": "photos/47/MEOW5363.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5,
+						"exposureTime": "1/60",
+						"iso": 320,
+						"focalLength": 55,
+						"focalLength35mm": 83,
+						"dateTaken": "2026-08-24T10:48:08.000Z"
+					},
+					"tags": [
+						"deer",
+						"trail",
+						"trees",
+						"fallen leaves",
+						"pathway",
+						"woodland",
+						"natural",
+						"peaceful",
+						"autumn",
+						"dappled light",
+						"shade",
+						"serene",
+						"bark",
+						"leaves",
+						"forest"
+					]
+				},
+				{
+					"id": "47-meow5365",
+					"file": "photos/47/MEOW5365.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/60",
+						"iso": 800,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-24T10:49:28.000Z"
+					},
+					"tags": [
+						"deer",
+						"trees",
+						"fallen leaves",
+						"woodland",
+						"nature",
+						"wildlife",
+						"bark",
+						"brown",
+						"green",
+						"peaceful",
+						"autumn",
+						"daytime",
+						"pathway"
+					]
+				},
+				{
+					"id": "47-meow5370",
+					"file": "photos/47/MEOW5370.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/60",
+						"iso": 400,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-24T10:49:42.000Z"
+					},
+					"tags": [
+						"deer",
+						"trees",
+						"forest",
+						"leaves",
+						"pathway",
+						"wildlife",
+						"nature",
+						"woodland",
+						"bark",
+						"brown",
+						"green",
+						"serene",
+						"daytime",
+						"peaceful"
+					]
+				},
+				{
+					"id": "47-meow5372",
+					"file": "photos/47/MEOW5372.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 9,
+						"exposureTime": "1/60",
+						"iso": 320,
+						"focalLength": 70,
+						"focalLength35mm": 105,
+						"dateTaken": "2026-08-24T10:56:32.000Z"
+					},
+					"tags": [
+						"trees",
+						"leaves",
+						"greenery",
+						"shade",
+						"canopy",
+						"woodland",
+						"serene",
+						"peaceful",
+						"summer",
+						"daylight",
+						"natural",
+						"environment",
+						"scenic",
+						"biodiversity"
+					]
+				},
+				{
+					"id": "47-meow5373",
+					"file": "photos/47/MEOW5373.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/60",
+						"iso": 2500,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-24T11:30:58.000Z"
+					},
+					"tags": [
+						"squirrel",
+						"tree",
+						"branch",
+						"bark",
+						"leaves",
+						"woodland",
+						"nature",
+						"wildlife",
+						"animal",
+						"brown",
+						"green",
+						"peaceful",
+						"daytime"
+					]
+				}
+			]
 		}
 	]
 }
