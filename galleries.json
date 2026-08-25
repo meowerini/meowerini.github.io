@@ -27505,6 +27505,194 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "48",
+			"title": "48",
+			"photos": [
+				{
+					"id": "48-meow5386",
+					"file": "photos/48/MEOW5386.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/60",
+						"iso": 640,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:02:06.000Z"
+					},
+					"tags": [
+						"bird",
+						"tree",
+						"branch",
+						"leaves",
+						"nature",
+						"wildlife",
+						"perch",
+						"gray",
+						"green",
+						"woodland",
+						"peaceful",
+						"daytime",
+						"outdoor"
+					]
+				},
+				{
+					"id": "48-meow5388",
+					"file": "photos/48/MEOW5388.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/60",
+						"iso": 640,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:02:06.000Z"
+					},
+					"tags": [
+						"bird",
+						"tree",
+						"branch",
+						"leaves",
+						"nature",
+						"perch",
+						"feather",
+						"wood",
+						"green",
+						"brown",
+						"daylight",
+						"peaceful",
+						"serene",
+						"spring"
+					]
+				},
+				{
+					"id": "48-meow5405",
+					"file": "photos/48/MEOW5405.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/1000",
+						"iso": 6400,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:02:22.000Z"
+					},
+					"tags": [
+						"bird",
+						"tree",
+						"branch",
+						"nature",
+						"wood",
+						"feather",
+						"beak",
+						"perch",
+						"greenery",
+						"brown",
+						"gray",
+						"peaceful",
+						"daytime",
+						"outdoor"
+					]
+				},
+				{
+					"id": "48-meow5508",
+					"file": "photos/48/MEOW5508.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/1000",
+						"iso": 5000,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:08:11.000Z"
+					},
+					"tags": [
+						"bird",
+						"tree",
+						"nature",
+						"perch",
+						"branch",
+						"wood",
+						"greenery",
+						"daylight",
+						"peaceful",
+						"serene",
+						"outdoor",
+						"wildlife",
+						"feathered",
+						"trunk"
+					]
+				},
+				{
+					"id": "48-meow5513",
+					"file": "photos/48/MEOW5513.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/1000",
+						"iso": 2500,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:08:31.000Z"
+					},
+					"tags": [
+						"bird",
+						"tree",
+						"branch",
+						"leaves",
+						"nature",
+						"wildlife",
+						"perch",
+						"gray",
+						"green",
+						"serene",
+						"daytime",
+						"peaceful",
+						"outdoor"
+					]
+				},
+				{
+					"id": "48-meow5519",
+					"file": "photos/48/MEOW5519.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/1000",
+						"iso": 2500,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-08-25T11:08:33.000Z"
+					},
+					"tags": [
+						"bird",
+						"branch",
+						"leaves",
+						"tree",
+						"nature",
+						"perch",
+						"green",
+						"gray",
+						"black",
+						"peaceful",
+						"daytime",
+						"outdoor"
+					]
+				}
+			]
 		}
 	]
 }
