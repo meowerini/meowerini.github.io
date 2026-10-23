@@ -28957,6 +28957,560 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "50",
+			"title": "50",
+			"photos": [
+				{
+					"id": "50-20261023_163836",
+					"file": "photos/50/20261023_163836.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 125,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:38:36.000Z"
+					},
+					"tags": [
+						"paintings",
+						"abstract",
+						"gallery",
+						"art",
+						"black",
+						"white",
+						"red",
+						"dynamic",
+						"modern",
+						"contemporary",
+						"expressionist",
+						"urban",
+						"indoor",
+						"museum"
+					]
+				},
+				{
+					"id": "50-20261023_163954",
+					"file": "photos/50/20261023_163954.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 2.2,
+						"exposureTime": "1/77",
+						"iso": 50,
+						"focalLength": 2,
+						"focalLength35mm": 13,
+						"dateTaken": "2026-10-23T14:39:54.000Z"
+					},
+					"tags": [
+						"art",
+						"gallery",
+						"exhibit",
+						"drawings",
+						"posters",
+						"column",
+						"windows",
+						"white",
+						"gray",
+						"modern",
+						"interior",
+						"museum",
+						"peaceful",
+						"daylight"
+					]
+				},
+				{
+					"id": "50-20261023_164650",
+					"file": "photos/50/20261023_164650.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 2.2,
+						"exposureTime": "1/100",
+						"iso": 50,
+						"focalLength": 2,
+						"focalLength35mm": 13,
+						"dateTaken": "2026-10-23T14:46:50.000Z"
+					},
+					"tags": [
+						"paintings",
+						"gallery",
+						"art",
+						"frames",
+						"concrete",
+						"floor",
+						"lights",
+						"window",
+						"water",
+						"evening",
+						"serene",
+						"museum",
+						"exhibit",
+						"display"
+					]
+				},
+				{
+					"id": "50-20261023_164722",
+					"file": "photos/50/20261023_164722.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 32,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:47:22.000Z"
+					},
+					"tags": [
+						"art",
+						"books",
+						"album",
+						"paintings",
+						"cards",
+						"cd",
+						"frame",
+						"exhibit",
+						"museum",
+						"black",
+						"red",
+						"white",
+						"serene",
+						"evening"
+					]
+				},
+				{
+					"id": "50-20261023_164730",
+					"file": "photos/50/20261023_164730.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 20,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:47:30.000Z"
+					},
+					"tags": [
+						"painting",
+						"abstract",
+						"art",
+						"frame",
+						"gallery",
+						"wall",
+						"black",
+						"red",
+						"yellow",
+						"white",
+						"gray",
+						"silhouette",
+						"landscape",
+						"modern"
+					]
+				},
+				{
+					"id": "50-20261023_164735",
+					"file": "photos/50/20261023_164735.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 20,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:47:35.000Z"
+					},
+					"tags": [
+						"painting",
+						"woman",
+						"ocean",
+						"waves",
+						"black",
+						"green",
+						"blue",
+						"gray",
+						"abstract",
+						"art",
+						"frame",
+						"wall",
+						"indoors",
+						"mood",
+						"evening"
+					]
+				},
+				{
+					"id": "50-20261023_164744",
+					"file": "photos/50/20261023_164744.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 25,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:47:44.000Z"
+					},
+					"tags": [
+						"paintings",
+						"framed",
+						"art",
+						"gallery",
+						"wall",
+						"people",
+						"flowers",
+						"black",
+						"white",
+						"shadow",
+						"museum",
+						"exhibit",
+						"indoors",
+						"serene"
+					]
+				},
+				{
+					"id": "50-20261023_164950",
+					"file": "photos/50/20261023_164950.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 2.2,
+						"exposureTime": "1/100",
+						"iso": 50,
+						"focalLength": 2,
+						"focalLength35mm": 13,
+						"dateTaken": "2026-10-23T14:49:50.000Z"
+					},
+					"tags": [
+						"landscape",
+						"painting",
+						"mountains",
+						"river",
+						"watercolor",
+						"white",
+						"blue",
+						"black",
+						"art",
+						"gallery",
+						"wall",
+						"exhibit",
+						"peaceful",
+						"serene"
+					]
+				},
+				{
+					"id": "50-20261023_165049",
+					"file": "photos/50/20261023_165049.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 64,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-10-23T14:50:49.000Z"
+					},
+					"tags": [
+						"painting",
+						"mountain",
+						"watercolor",
+						"exhibit",
+						"gallery",
+						"white",
+						"black",
+						"art",
+						"frame",
+						"wall",
+						"museum",
+						"serene",
+						"peaceful",
+						"daylight"
+					]
+				},
+				{
+					"id": "50-meow6444",
+					"file": "photos/50/MEOW6444.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/320",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-10-23T15:37:12.000Z"
+					},
+					"tags": [
+						"sculpture",
+						"tree",
+						"lake",
+						"sunset",
+						"autumn",
+						"water",
+						"sky",
+						"reflection",
+						"peaceful",
+						"golden",
+						"serene",
+						"scenic",
+						"nature",
+						"beauty",
+						"evening"
+					]
+				},
+				{
+					"id": "50-meow6452",
+					"file": "photos/50/MEOW6452.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5,
+						"exposureTime": "1/240",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-10-23T15:40:17.000Z"
+					},
+					"tags": [
+						"photographer",
+						"camera",
+						"trees",
+						"lake",
+						"sunset",
+						"fall",
+						"leaves",
+						"water",
+						"cloudy",
+						"orange",
+						"red",
+						"peaceful",
+						"autumn",
+						"silhouette"
+					]
+				},
+				{
+					"id": "50-meow6456",
+					"file": "photos/50/MEOW6456.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5,
+						"exposureTime": "1/180",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-10-23T15:41:30.000Z"
+					},
+					"tags": [
+						"leaves",
+						"tree",
+						"water",
+						"sunrise",
+						"autumn",
+						"red",
+						"orange",
+						"yellow",
+						"reflection",
+						"peaceful",
+						"serene",
+						"morning",
+						"nature"
+					]
+				},
+				{
+					"id": "50-meow6458",
+					"file": "photos/50/MEOW6458.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5,
+						"exposureTime": "1/210",
+						"iso": 320,
+						"focalLength": 19,
+						"focalLength35mm": 28,
+						"dateTaken": "2026-10-23T15:42:10.000Z"
+					},
+					"tags": [
+						"leaves",
+						"tree",
+						"sky",
+						"clouds",
+						"autumn",
+						"red",
+						"orange",
+						"blue",
+						"serene",
+						"peaceful",
+						"evening",
+						"fall",
+						"natural",
+						"beauty"
+					]
+				},
+				{
+					"id": "50-meow6477",
+					"file": "photos/50/MEOW6477.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/90",
+						"iso": 320,
+						"focalLength": 268,
+						"focalLength35mm": 402,
+						"dateTaken": "2026-10-23T15:45:17.000Z"
+					},
+					"tags": [
+						"seagulls",
+						"lighthouse",
+						"rocks",
+						"waterfront",
+						"trees",
+						"evening",
+						"calm",
+						"peaceful",
+						"sunset",
+						"nature",
+						"birds",
+						"landscape",
+						"coastline",
+						"silhouette"
+					]
+				},
+				{
+					"id": "50-meow6480",
+					"file": "photos/50/MEOW6480.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 9,
+						"exposureTime": "1/2500",
+						"iso": 320,
+						"focalLength": 300,
+						"focalLength35mm": 450,
+						"dateTaken": "2026-10-23T15:46:22.000Z"
+					},
+					"tags": [
+						"crane",
+						"trees",
+						"sky",
+						"sun",
+						"silhouette",
+						"industrial",
+						"evening",
+						"orange",
+						"clouds",
+						"construction",
+						"landscape",
+						"sunset",
+						"calm",
+						"peaceful",
+						"golden"
+					]
+				},
+				{
+					"id": "50-meow6481",
+					"file": "photos/50/MEOW6481.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF70-300mmF4-5.6 R LM OIS WR",
+						"fNumber": 5.6,
+						"exposureTime": "1/1250",
+						"iso": 320,
+						"focalLength": 70,
+						"focalLength35mm": 105,
+						"dateTaken": "2026-10-23T15:46:31.000Z"
+					},
+					"tags": [
+						"crane",
+						"water",
+						"trees",
+						"industrial",
+						"sunset",
+						"sky",
+						"clouds",
+						"silhouette",
+						"reflection",
+						"orange",
+						"calm",
+						"peaceful",
+						"evening"
+					]
+				},
+				{
+					"id": "50-meow6485",
+					"file": "photos/50/MEOW6485.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/900",
+						"iso": 320,
+						"focalLength": 55,
+						"focalLength35mm": 83,
+						"dateTaken": "2026-10-23T15:49:29.000Z"
+					},
+					"tags": [
+						"water",
+						"sunset",
+						"crane",
+						"trees",
+						"lake",
+						"sky",
+						"reflection",
+						"silhouette",
+						"calm",
+						"orange",
+						"peaceful",
+						"evening",
+						"nature"
+					]
+				},
+				{
+					"id": "50-meow6493",
+					"file": "photos/50/MEOW6493.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/550",
+						"iso": 320,
+						"focalLength": 55,
+						"focalLength35mm": 83,
+						"dateTaken": "2026-10-23T15:54:09.000Z"
+					},
+					"tags": [
+						"sunset",
+						"clouds",
+						"water",
+						"trees",
+						"crane",
+						"silhouette",
+						"peaceful",
+						"golden",
+						"evening",
+						"serene",
+						"reflection",
+						"horizon",
+						"dusk"
+					]
+				}
+			]
 		}
 	]
 }
