@@ -30132,6 +30132,382 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "53",
+			"title": "53",
+			"photos": [
+				{
+					"id": "53-20261114_155838",
+					"file": "photos/53/20261114_155838.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 100,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-14T14:58:38.000Z"
+					},
+					"tags": [
+						"trees",
+						"pathway",
+						"fallen_leaves",
+						"woodland",
+						"trail",
+						"autumn",
+						"leaves",
+						"blue_sky",
+						"serene",
+						"peaceful",
+						"golden",
+						"dusk",
+						"nature",
+						"landscape"
+					]
+				},
+				{
+					"id": "53-20261114_163215",
+					"file": "photos/53/20261114_163215.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 2.2,
+						"exposureTime": "1/50",
+						"iso": 1250,
+						"focalLength": 2,
+						"focalLength35mm": 13,
+						"dateTaken": "2026-11-14T15:32:16.000Z"
+					},
+					"tags": [
+						"fall",
+						"leaves",
+						"trees",
+						"picnic table",
+						"park",
+						"nature",
+						"landscape",
+						"autumn",
+						"blue sky",
+						"serene",
+						"peaceful",
+						"golden",
+						"dusk",
+						"outdoors"
+					]
+				},
+				{
+					"id": "53-20261114_164808",
+					"file": "photos/53/20261114_164808.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/25",
+						"iso": 800,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-14T15:48:08.000Z"
+					},
+					"tags": [
+						"trees",
+						"people",
+						"tables",
+						"barn",
+						"evening",
+						"lights",
+						"moon",
+						"fall",
+						"leaves",
+						"outdoors",
+						"socializing",
+						"dusk",
+						"wooden",
+						"nature"
+					]
+				},
+				{
+					"id": "53-meow6679",
+					"file": "photos/53/MEOW6679.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/950",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T15:31:19.000Z"
+					},
+					"tags": [
+						"trees",
+						"powerlines",
+						"hillside",
+						"pathway",
+						"bushes",
+						"electricity",
+						"landscape",
+						"autumn",
+						"sky",
+						"sun",
+						"clear",
+						"peaceful",
+						"evening"
+					]
+				},
+				{
+					"id": "53-meow6682",
+					"file": "photos/53/MEOW6682.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 3.6,
+						"exposureTime": "1/120",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T15:34:56.000Z"
+					},
+					"tags": [
+						"trees",
+						"fall",
+						"leaves",
+						"woodland",
+						"nature",
+						"serene",
+						"autumn",
+						"shade",
+						"dappled light",
+						"path",
+						"quiet",
+						"seasonal",
+						"peaceful",
+						"golden",
+						"morning"
+					]
+				},
+				{
+					"id": "53-meow6683",
+					"file": "photos/53/MEOW6683.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 4.5,
+						"exposureTime": "1/150",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T15:37:33.000Z"
+					},
+					"tags": [
+						"trees",
+						"fall",
+						"leaves",
+						"sky",
+						"trail",
+						"path",
+						"nature",
+						"serene",
+						"golden",
+						"blue",
+						"peaceful",
+						"autumn",
+						"landscape",
+						"dusk"
+					]
+				},
+				{
+					"id": "53-meow6688",
+					"file": "photos/53/MEOW6688.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/300",
+						"iso": 320,
+						"focalLength": 23,
+						"focalLength35mm": 35,
+						"dateTaken": "2026-11-14T15:41:24.000Z"
+					},
+					"tags": [
+						"field",
+						"people",
+						"trees",
+						"mountains",
+						"fall",
+						"grass",
+						"sky",
+						"clouds",
+						"autumn",
+						"landscape",
+						"leaves",
+						"shade",
+						"evening",
+						"peaceful",
+						"open"
+					]
+				},
+				{
+					"id": "53-meow6694",
+					"file": "photos/53/MEOW6694.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 5.6,
+						"exposureTime": "1/210",
+						"iso": 320,
+						"focalLength": 53,
+						"focalLength35mm": 79,
+						"dateTaken": "2026-11-14T15:55:06.000Z"
+					},
+					"tags": [
+						"trees",
+						"landscape",
+						"hillside",
+						"autumn",
+						"fall",
+						"colors",
+						"golden",
+						"blue-sky",
+						"serene",
+						"peaceful",
+						"evening",
+						"sunset",
+						"nature",
+						"wilderness"
+					]
+				},
+				{
+					"id": "53-meow6702",
+					"file": "photos/53/MEOW6702.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 2.8,
+						"exposureTime": "1/60",
+						"iso": 1000,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T16:12:45.000Z"
+					},
+					"tags": [
+						"gazebo",
+						"fallen leaves",
+						"woodland",
+						"pathway",
+						"trees",
+						"autumn",
+						"shade",
+						"dappled light",
+						"serene",
+						"cool",
+						"muted colors",
+						"peaceful",
+						"quiet",
+						"afternoon"
+					]
+				},
+				{
+					"id": "53-meow6703",
+					"file": "photos/53/MEOW6703.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 2.8,
+						"exposureTime": "1/60",
+						"iso": 640,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T16:12:57.000Z"
+					},
+					"tags": [
+						"trees",
+						"fall",
+						"leaves",
+						"path",
+						"woodland",
+						"autumn",
+						"trail",
+						"landscape",
+						"serene",
+						"dusk",
+						"beauty",
+						"nature",
+						"peaceful",
+						"seasonal"
+					]
+				},
+				{
+					"id": "53-meow6704",
+					"file": "photos/53/MEOW6704.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 2.8,
+						"exposureTime": "1/52",
+						"iso": 6400,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T16:50:29.000Z"
+					},
+					"tags": [
+						"pond",
+						"trees",
+						"fall",
+						"reflection",
+						"water",
+						"leaves",
+						"twilight",
+						"serene",
+						"autumn",
+						"peaceful",
+						"dusk",
+						"nature",
+						"landscape",
+						"stillness"
+					]
+				},
+				{
+					"id": "53-meow6709",
+					"file": "photos/53/MEOW6709.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 2.8,
+						"exposureTime": "1/45",
+						"iso": 6400,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-14T16:55:25.000Z"
+					},
+					"tags": [
+						"pond",
+						"trees",
+						"mountains",
+						"lights",
+						"water",
+						"reflection",
+						"autumn",
+						"dusk",
+						"peaceful",
+						"serene",
+						"darkness",
+						"twilight",
+						"nature",
+						"landscape"
+					]
+				}
+			]
 		}
 	]
 }
