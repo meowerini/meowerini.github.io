@@ -30508,6 +30508,314 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "54",
+			"title": "54",
+			"photos": [
+				{
+					"id": "54-20261115_135015",
+					"file": "photos/54/20261115_135015.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 64,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T12:50:15.000Z"
+					},
+					"tags": [
+						"fall",
+						"trees",
+						"leaves",
+						"path",
+						"woodland",
+						"autumn",
+						"yellow",
+						"brown",
+						"peaceful",
+						"serene",
+						"dusk",
+						"nature",
+						"landscape",
+						"seasonal"
+					]
+				},
+				{
+					"id": "54-20261115_140456",
+					"file": "photos/54/20261115_140456.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 32,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:04:56.000Z"
+					},
+					"tags": [
+						"field",
+						"trees",
+						"grass",
+						"landscape",
+						"autumn",
+						"overcast",
+						"dull",
+						"stillness",
+						"golden",
+						"brown",
+						"gray",
+						"quiet",
+						"peaceful",
+						"evening"
+					]
+				},
+				{
+					"id": "54-20261115_141217",
+					"file": "photos/54/20261115_141217.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 64,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:12:17.000Z"
+					},
+					"tags": [
+						"bicycle",
+						"tent",
+						"signpost",
+						"cabin",
+						"pathway",
+						"leaves",
+						"people",
+						"mountain",
+						"cloudy",
+						"wooden",
+						"bike",
+						"camping",
+						"outdoor",
+						"nature",
+						"trail"
+					]
+				},
+				{
+					"id": "54-20261115_141229",
+					"file": "photos/54/20261115_141229.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 125,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:12:29.000Z"
+					},
+					"tags": [
+						"bikes",
+						"statue",
+						"fall",
+						"leaves",
+						"park",
+						"trees",
+						"path",
+						"helmet",
+						"campsite",
+						"tent",
+						"autumn",
+						"cycling",
+						"peaceful",
+						"daytime"
+					]
+				},
+				{
+					"id": "54-20261115_142656",
+					"file": "photos/54/20261115_142656.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 64,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:26:56.000Z"
+					},
+					"tags": [
+						"trees",
+						"fall",
+						"leaves",
+						"yellow",
+						"autumn",
+						"woodland",
+						"nature",
+						"serene",
+						"peaceful",
+						"daytime",
+						"seasonal",
+						"landscape",
+						"beauty",
+						"scenic"
+					]
+				},
+				{
+					"id": "54-20261115_143024",
+					"file": "photos/54/20261115_143024.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/180",
+						"iso": 100,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:30:24.000Z"
+					},
+					"tags": [
+						"path",
+						"trees",
+						"fall",
+						"leaves",
+						"trail",
+						"nature",
+						"woodland",
+						"autumn",
+						"golden",
+						"peaceful",
+						"serene",
+						"dirt",
+						"seasonal",
+						"landscape"
+					]
+				},
+				{
+					"id": "54-20261115_143644",
+					"file": "photos/54/20261115_143644.jpg",
+					"exif": {
+						"make": "samsung",
+						"model": "Galaxy S24 Ultra",
+						"fNumber": 1.7,
+						"exposureTime": "1/100",
+						"iso": 320,
+						"focalLength": 6,
+						"focalLength35mm": 23,
+						"dateTaken": "2026-11-15T13:36:44.000Z"
+					},
+					"tags": [
+						"cross",
+						"grave",
+						"stones",
+						"candles",
+						"sign",
+						"leaves",
+						"trees",
+						"autumn",
+						"memorial",
+						"nature",
+						"serene",
+						"fallen",
+						"peaceful",
+						"dawn"
+					]
+				},
+				{
+					"id": "54-meow6730",
+					"file": "photos/54/MEOW6730.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 3.6,
+						"exposureTime": "1/85",
+						"iso": 320,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-15T13:59:01.000Z"
+					},
+					"tags": [
+						"trees",
+						"leaves",
+						"fall",
+						"woodland",
+						"nature",
+						"autumn",
+						"landscape",
+						"serene",
+						"golden",
+						"quiet",
+						"peaceful",
+						"daytime",
+						"seasonal"
+					]
+				},
+				{
+					"id": "54-meow6732",
+					"file": "photos/54/MEOW6732.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 2.8,
+						"exposureTime": "1/60",
+						"iso": 400,
+						"focalLength": 18,
+						"focalLength35mm": 27,
+						"dateTaken": "2026-11-15T14:01:20.000Z"
+					},
+					"tags": [
+						"fall",
+						"leaves",
+						"pathway",
+						"trees",
+						"woodland",
+						"autumn",
+						"landscape",
+						"nature",
+						"serene",
+						"golden",
+						"dawn",
+						"peaceful",
+						"seasonal"
+					]
+				},
+				{
+					"id": "54-meow6748",
+					"file": "photos/54/MEOW6748.JPG",
+					"exif": {
+						"make": "FUJIFILM",
+						"model": "X-T30",
+						"lens": "XF18-55mmF2.8-4 R LM OIS",
+						"fNumber": 3.2,
+						"exposureTime": "1/70",
+						"iso": 320,
+						"focalLength": 19,
+						"focalLength35mm": 28,
+						"dateTaken": "2026-11-15T14:39:14.000Z"
+					},
+					"tags": [
+						"path",
+						"trees",
+						"fall",
+						"leaves",
+						"trail",
+						"woodland",
+						"autumn",
+						"dirt",
+						"foliage",
+						"serene",
+						"golden",
+						"peaceful",
+						"muted",
+						"morning"
+					]
+				}
+			]
 		}
 	]
 }
